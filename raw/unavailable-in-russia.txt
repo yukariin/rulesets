@@ -212,7 +212,7 @@ joyreactor.cc
 jsfiddle.net
 keepgrowing.in
 keepsolid.com
-kemono.su
+kemono.cr
 klaviyo.com
 kmail-lists.com
 kowalski7cc.xyz
@@ -238,7 +238,6 @@ malw.link
 malwarebytes.com
 malwarebytes.org
 manus.im
-matrix.org
 mattermost.com
 maximintegrated.com
 mbamupdates.com
