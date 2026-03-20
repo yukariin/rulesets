@@ -3,17 +3,19 @@
   "rules": [
     {
       "domain": [
-        "geolocation.onetrust.com",
-        "gemini.google.com",
-        "lookerstudio.google.com",
-        "gaming.amazon.com",
-        "eu.shop.battle.net",
         "ai-chat.bsg.brave.com",
-        "www3.corsair.com",
-        "support.ts.fujitsu.com",
+        "eu.shop.battle.net",
+        "gaming.amazon.com",
+        "gemini.google.com",
+        "geolocation.onetrust.com",
         "install.launcher.omniverse.nvidia.com",
+        "itunes.apple.com",
+        "lookerstudio.google.com",
+        "proactivebackend-pa.googleapis.com",
         "store.epicgames.com",
-        "itunes.apple.com"
+        "suggestqueries.google.com",
+        "support.ts.fujitsu.com",
+        "www3.corsair.com"
       ],
       "domain_suffix": [
         "2407.pl",
@@ -212,6 +214,8 @@
         "insanelymac.com",
         "insideevs.com",
         "intel.com",
+        "intel.de",
+        "intel.nl",
         "intel.se",
         "intellij.net",
         "intellipaat.com",
@@ -422,6 +426,7 @@
         "ti.com",
         "tidal.com",
         "timberland.com",
+        "tmdb.com",
         "tmdb.org",
         "tommy.com",
         "tria.ge",
