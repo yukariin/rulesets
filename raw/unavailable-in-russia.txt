@@ -199,6 +199,8 @@ insanelymac.com
 insideevs.com
 install.launcher.omniverse.nvidia.com
 intel.com
+intel.de
+intel.nl
 intel.se
 intellij.net
 intellipaat.com
@@ -313,6 +315,7 @@ plugin-alliance.com
 pluralsight.com
 pny.com
 pornhub.com
+proactivebackend-pa.googleapis.com
 promods.net
 ptc.com
 pump.fun
@@ -387,6 +390,7 @@ store.epicgames.com
 strava.com
 studychat.app
 stuff.co.nz
+suggestqueries.google.com
 summerana.com
 supercell.com
 support.ts.fujitsu.com
@@ -413,6 +417,7 @@ thomas-krenn.com
 ti.com
 tidal.com
 timberland.com
+tmdb.com
 tmdb.org
 tommy.com
 tria.ge
