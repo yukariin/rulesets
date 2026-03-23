@@ -272,6 +272,7 @@ neuesbad.de
 ngrok.com
 nordvpn.com
 norton.com
+notion.site
 notion.so
 nxp.com
 oasis.app
